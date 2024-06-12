@@ -1,0 +1,2 @@
+0 organized
+1 not_organized
